@@ -14,10 +14,9 @@ DropDown_9D0CFF0A_8F2D_294D_41B9_F3E4B427A048.prompt = M E N U
 DropDown_B238FDC5_9157_E8C4_41A0_5328170BBE6F.prompt = MENU
 
 ### Label
-Label_8C06C5FA_92D7_F8CD_41DA_4383819ADC3C_mobile.text = S_2 K_1 Sejarah Salak
+Label_8C06C5FA_92D7_F8CD_41DA_4383819ADC3C_mobile.text = S_3 K_1arifin Cahya Wijaya
 Label_8C2D470F_9333_3944_41E0_588724AD0542_mobile.text = SMPN 3 GUNUNGSINDUR
 Label_8C6B1646_9333_1BC5_41A3_B020BBD0B637_mobile.text = SANGGAR ANAK AKAR
-Label_8C9E03B2_92D5_195C_41D4_121B708C535F_mobile.text = S_2 K_2 Selai Tomat
 Label_8CA316EB_9332_F8CC_41C6_F9F0738EB320_mobile.text = ERUDIO INDONESIA
 Label_8CE3655F_9335_19C4_41DB_9E1E971A15FA_mobile.text = GUDSKUL
 Label_8F80C354_9333_79C4_41B9_0222581E6B03_mobile.text = SMA N 3 KLATEN
@@ -27,14 +26,29 @@ Label_980DC35E_8D69_F332_41B3_A8068189DA05.text = copyright SERRUM ARTHANDLING
 Label_980DC35E_8D69_F332_41B3_A8068189DA05_mobile.text = copyright SERRUM ARTHANDLING
 Label_988E28C1_8F3F_373F_41D2_8A0A59076165.text = UNTUK TAMPILAN MAKSIMAL GUNAKAN BROWSER GOOGLE CHROME
 Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F.text = SMA MARSUDIRINI MUNTILAN
-Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F_mobile.text = S_2 K_2 Selai Tomat
+Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F_mobile.text = S_2 K_3 Minyak Jelantah 1
 Label_9CA2FFF1_8F33_68DF_41CC_395B28BC41CF.text = SMPN 3 GUNUNGSINDUR
 Label_9CC9D9A7_8F5F_2944_41D7_73235B247374.text = SANGGAR AKAR
 Label_9D115F8D_8F32_E947_41D9_7766314A188E.text = SMA N 3 KLATEN
 Label_9DA423AF_8F77_1944_41D7_C5E42E96DAAA.text = ERUDIO INDONESIA
 Label_9DA59204_8F6D_1B45_41E0_4AAF8AFE98AE.text = GUDSKUL
-Label_B3599C09_917D_2F4C_41B5_C50D67BC0FCD_mobile.text = S_2 K_2 Selai Tomat
-Label_B3A9038B_9175_1943_41BC_EB5C148FC8F5.text = SMA MARSUDIRINI MUNTILAN
+Label_B01F72A3_913D_1B43_41D6_3CA72E39AB6D.text = SMP N 3 GUNUNG SINDUR
+Label_B02DD34F_9133_39C4_4188_AE43F62A5DA0_mobile.text = S_1 K_2 LAMPION
+Label_B0466481_913F_3F3C_41CD_4F08D99AF251_mobile.text = S_2 K_1 Sejarah Salak
+Label_B058D9FA_912F_28CD_41D0_EAA32B99CF66_mobile.text = S_3 K_4
+Label_B068C129_9133_394C_41E1_7280512E26ED.text = SMA N 3 KLATEN
+Label_B06A79B3_9132_E95C_41C6_FFEFA2DFF3C1_mobile.text = S_1 K_2 RANCANGAN
+Label_B07C38AB_912D_174C_41E1_750FE3825450_mobile.text = S_3 K_2 Mozza Aura Diva
+Label_B2AB8FBB_9133_6943_418B_10EAFA2634A4.text = SMA MARSUDIRINI MUNTILAN
+Label_B32B3AA3_912D_2B43_41DF_DBCC31E42291_mobile.text = S_3 K_3 Aulya Sabbylla Putry
+Label_B33C9497_912F_1F44_41AC_CFC775DB5EEB_mobile.text = S_3 K_5 Aditya Yusuf Winata R
+Label_B3599C09_917D_2F4C_41B5_C50D67BC0FCD_mobile.text = S_2 K_3 Minyak Jelantah 2
+Label_B3A2F63F_912D_1B44_41DE_9BC5499FF8D6_mobile.text = S_3 K_6 Dhia Zahran Sana
+Label_B3B93EC9_9137_E8CC_41C6_BE70AFDF7D95_mobile.text = S_1 K_1 Vas Bunga
+Label_B3BCE1FD_9135_38C4_41C9_DB52A6F2A699_mobile.text = S_2 K_1 Sejarah Salak
+Label_B3DBADC3_912D_E93C_41D0_BF65B8C98CC2_mobile.text = S_1 K_2 Miniatur Erupsi
+Label_B3F06E0C_9137_2B45_41A6_C621360EB7DE_mobile.text = S_1 K_1 Koran - Kertas Bekas
+Label_B3F8CE15_9135_6B47_41C0_ECAF6EE5DE55_mobile.text = S_1 K_1 Kain Perca
 
 ## Media
 
@@ -178,10 +192,9 @@ video_A6D7A3E1_8A17_A655_41DD_DF5A57CDE8FE.label = EVALUASI PROGRAM PRESISI 3 SM
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_8C0205FA_92D7_F8CD_41E0_FBFB3A4E7785.url = https://www.scribd.com/embeds/494190380/content?start_page=1&view_mode=scroll&access_key=key-P9oxkmwu8j1OHgXQO7Bt
+PopupWebFrameBehaviour_8C0205FA_92D7_F8CD_41E0_FBFB3A4E7785.url = https://www.scribd.com/embeds/494208881/content?start_page=1&view_mode=scroll&access_key=key-WbSDTuxfmYHleNgHQ5DJ
 PopupWebFrameBehaviour_8C2C670F_9333_3944_41E0_EBEA69685036.url = https://smpn3gunungsindur.wordpress.com/
 PopupWebFrameBehaviour_8C6A4647_9333_1BC3_419C_07E94D7C86A2.url = https://www.instagram.com/p/B6Htid3AZHY/embed
-PopupWebFrameBehaviour_8C9A43B2_92D5_195C_41D4_35B81C2EAE60.url = https://www.scribd.com/embeds/494190397/content?start_page=1&view_mode=scroll&access_key=key-LA04hFRMOmiKxFsK6K4d
 PopupWebFrameBehaviour_8CA1E6EC_9332_F8C4_41C8_08A4C54317E8.url = https://www.erudioindonesia.sch.id/?gclid=Cj0KCQiApY6BBhCsARIsAOI_GjZaPOj5rXADWQO05mX_CPeNEkThINcYUhOWH1Vsu2QOq4kjIqJsi3YaAoXBEALw_wcB
 PopupWebFrameBehaviour_8CFE255F_9335_19C4_41E1_75BBCA04A8A3.url = http://gudskul.art/
 PopupWebFrameBehaviour_8D163AE7_92D5_28C4_41C1_CB8287EFFAB3.url = https://www.scribd.com/embeds/494190544/content?start_page=1&view_mode=scroll&access_key=key-8vWQzGKZwue0XDGcV4ux
@@ -195,4 +208,17 @@ PopupWebFrameBehaviour_9CCA89A7_8F5F_2944_41D2_977C0ACA0A43.url = https://www.in
 PopupWebFrameBehaviour_9D2D9F8D_8F32_E947_41B6_44774BD08A29.url = http://www.sman3klaten.sch.id/
 PopupWebFrameBehaviour_9DA0E3AF_8F77_1944_41D8_BAB56C481B4E.url = https://www.erudioindonesia.sch.id/?gclid=Cj0KCQiApY6BBhCsARIsAOI_GjZaPOj5rXADWQO05mX_CPeNEkThINcYUhOWH1Vsu2QOq4kjIqJsi3YaAoXBEALw_wcB
 PopupWebFrameBehaviour_9DA9D204_8F6D_1B45_41D7_AF1462C97122.url = http://gudskul.art/
+PopupWebFrameBehaviour_B02A1355_9133_39C4_41E0_C1C2192B4390.url = https://www.scribd.com/embeds/494207583/content?start_page=1&view_mode=scroll&access_key=key-xglHWBgPRPEFNd5OxfY3
+PopupWebFrameBehaviour_B059A482_913F_3F3C_41DB_91C4B5D7DA52.url = https://www.scribd.com/embeds/494190380/content?start_page=1&view_mode=scroll&access_key=key-P9oxkmwu8j1OHgXQO7Bt
+PopupWebFrameBehaviour_B05BE9FB_912F_28C3_41E1_F7D8469E8A5D.url = https://www.scribd.com/embeds/494209074/content?start_page=1&view_mode=scroll&access_key=key-TByCBaPRLxdx8X7SeHKT
+PopupWebFrameBehaviour_B06939B9_9132_E94C_418D_E53881D6C6B1.url = https://www.scribd.com/embeds/494207047/content?start_page=1&view_mode=scroll&access_key=key-s6lT9uTm2O9TptdY0eRu
+PopupWebFrameBehaviour_B07D18B1_912D_175C_417D_2C56A4917FA4.url = https://www.scribd.com/embeds/494208887/content?start_page=1&view_mode=scroll&access_key=key-tbXXUtsMGs77Fq7iNmJm
+PopupWebFrameBehaviour_B3205498_912F_1F4C_41DE_B86EA8EEB860.url = https://www.scribd.com/embeds/494209268/content?start_page=1&view_mode=scroll&access_key=key-DztMzHdgWvW80p2t4Uba
+PopupWebFrameBehaviour_B32FFAA3_912D_2B43_41DB_61B0C9B0E2A1.url = https://www.scribd.com/embeds/494209028/content?start_page=1&view_mode=scroll&access_key=key-1xaStN0eHPmkg3F1ercG
 PopupWebFrameBehaviour_B35C4C0A_917D_2F4C_41B4_B833524CCC52.url = https://www.scribd.com/embeds/494190390/content?start_page=1&view_mode=scroll&access_key=key-H7ZcoeB6CXt4p5wnJVsy
+PopupWebFrameBehaviour_B3A63640_912D_1B3C_41C2_EDC3D6A28132.url = https://www.scribd.com/embeds/494209286/content?start_page=1&view_mode=scroll&access_key=key-uh2hJ3px1Sd8RfjZRnEg
+PopupWebFrameBehaviour_B3B81EC9_9137_E8CC_41BF_C30F9EF77E74.url = https://www.scribd.com/embeds/494206914/content?start_page=1&view_mode=scroll&access_key=key-fCseSaTy55ZppTMVLtwa
+PopupWebFrameBehaviour_B3B831FD_9135_38C4_41B3_40492D841BF3.url = https://www.scribd.com/embeds/494190380/content?start_page=1&view_mode=scroll&access_key=key-P9oxkmwu8j1OHgXQO7Bt
+PopupWebFrameBehaviour_B3DF4DC4_912D_E8C4_41DA_DFFF31066AEF.url = https://www.scribd.com/embeds/494207145/content?start_page=1&view_mode=scroll&access_key=key-SqzOyXMO53u6aMob8B0m
+PopupWebFrameBehaviour_B3FB0E15_9135_6B47_41B0_14D0E87693B6.url = https://www.scribd.com/embeds/494206680/content?start_page=1&view_mode=scroll&access_key=key-Rz4cTYDD4rzT6KNjvhPJ
+PopupWebFrameBehaviour_B3FD2E0C_9137_2B45_41E1_4D5CAC635951.url = https://www.scribd.com/embeds/494206858/content?start_page=1&view_mode=scroll&access_key=key-NRNt873ArJMqgdEBBGbN
