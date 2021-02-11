@@ -50,6 +50,9 @@ Label_B3DBADC3_912D_E93C_41D0_BF65B8C98CC2_mobile.text = S_1 K_2 Miniatur Erupsi
 Label_B3F06E0C_9137_2B45_41A6_C621360EB7DE_mobile.text = S_1 K_1 Koran - Kertas Bekas
 Label_B3F8CE15_9135_6B47_41C0_ECAF6EE5DE55_mobile.text = S_1 K_1 Kain Perca
 
+### Tooltip
+IconButton_BDA79D2C_96DD_2945_41D7_37AD24D9DB3A.toolTip = Fullscreen
+
 ## Media
 
 ### Title
