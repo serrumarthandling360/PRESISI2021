@@ -12,7 +12,6 @@ tour.name = PRESISI
 ### Dropdown
 DropDown_9D0CFF0A_8F2D_294D_41B9_F3E4B427A048.prompt = M E N U
 DropDown_B238FDC5_9157_E8C4_41A0_5328170BBE6F.prompt = MENU
-DropDown_B28DADC6_9155_28C4_41D7_5E4CB9AEDA3A.prompt = MENU
 
 ### Label
 Label_8C06C5FA_92D7_F8CD_41DA_4383819ADC3C_mobile.text = S_2 K_1 Sejarah Salak
@@ -34,6 +33,8 @@ Label_9CC9D9A7_8F5F_2944_41D7_73235B247374.text = SANGGAR AKAR
 Label_9D115F8D_8F32_E947_41D9_7766314A188E.text = SMA N 3 KLATEN
 Label_9DA423AF_8F77_1944_41D7_C5E42E96DAAA.text = ERUDIO INDONESIA
 Label_9DA59204_8F6D_1B45_41E0_4AAF8AFE98AE.text = GUDSKUL
+Label_B3599C09_917D_2F4C_41B5_C50D67BC0FCD_mobile.text = S_2 K_2 Selai Tomat
+Label_B3A9038B_9175_1943_41BC_EB5C148FC8F5.text = SMA MARSUDIRINI MUNTILAN
 
 ## Media
 
@@ -194,3 +195,4 @@ PopupWebFrameBehaviour_9CCA89A7_8F5F_2944_41D2_977C0ACA0A43.url = https://www.in
 PopupWebFrameBehaviour_9D2D9F8D_8F32_E947_41B6_44774BD08A29.url = http://www.sman3klaten.sch.id/
 PopupWebFrameBehaviour_9DA0E3AF_8F77_1944_41D8_BAB56C481B4E.url = https://www.erudioindonesia.sch.id/?gclid=Cj0KCQiApY6BBhCsARIsAOI_GjZaPOj5rXADWQO05mX_CPeNEkThINcYUhOWH1Vsu2QOq4kjIqJsi3YaAoXBEALw_wcB
 PopupWebFrameBehaviour_9DA9D204_8F6D_1B45_41D7_AF1462C97122.url = http://gudskul.art/
+PopupWebFrameBehaviour_B35C4C0A_917D_2F4C_41B4_B833524CCC52.url = https://www.scribd.com/embeds/494190390/content?start_page=1&view_mode=scroll&access_key=key-H7ZcoeB6CXt4p5wnJVsy
