@@ -11,13 +11,14 @@ tour.name = PRESISI
 
 ### Dropdown
 DropDown_8D1DD4DF_9335_38C4_41A8_365DEE631531_mobile.prompt = HANDBOOK
-DropDown_8D7732D6_932D_18C5_41DF_3E6BE058FC7E_mobile.prompt = HANDBOOK
 DropDown_9D0CFF0A_8F2D_294D_41B9_F3E4B427A048.prompt = M E N U
 DropDown_9D0CFF0A_8F2D_294D_41B9_F3E4B427A048_mobile.prompt = M E N U
 
 ### Label
+Label_8C06C5FA_92D7_F8CD_41DA_4383819ADC3C_mobile.text = S_2 K_1 Sejarah Salak
 Label_8C2D470F_9333_3944_41E0_588724AD0542_mobile.text = SMPN 3 GUNUNGSINDUR
 Label_8C6B1646_9333_1BC5_41A3_B020BBD0B637_mobile.text = SANGGAR ANAK AKAR
+Label_8C9E03B2_92D5_195C_41D4_121B708C535F_mobile.text = S_2 K_2 Selai Tomat
 Label_8CA316EB_9332_F8CC_41C6_F9F0738EB320_mobile.text = ERUDIO INDONESIA
 Label_8CE3655F_9335_19C4_41DB_9E1E971A15FA_mobile.text = GUDSKUL
 Label_8F80C354_9333_79C4_41B9_0222581E6B03_mobile.text = SMA N 3 KLATEN
@@ -27,12 +28,10 @@ Label_980DC35E_8D69_F332_41B3_A8068189DA05.text = copyright SERRUM ARTHANDLING
 Label_980DC35E_8D69_F332_41B3_A8068189DA05_mobile.text = copyright SERRUM ARTHANDLING
 Label_988E28C1_8F3F_373F_41D2_8A0A59076165.text = UNTUK TAMPILAN MAKSIMAL GUNAKAN BROWSER GOOGLE CHROME
 Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F.text = SMA MARSUDIRINI MUNTILAN
-Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F_mobile.text = S_2 K_1 Sejarah Salak
+Label_9C3DF14C_8F32_F9C5_41D0_6EF3E0DEFE0F_mobile.text = S_2 K_2 Selai Tomat
 Label_9CA2FFF1_8F33_68DF_41CC_395B28BC41CF.text = SMPN 3 GUNUNGSINDUR
-Label_9CA2FFF1_8F33_68DF_41CC_395B28BC41CF_mobile.text = SMPN 3 GUNUNGSINDUR
 Label_9CC9D9A7_8F5F_2944_41D7_73235B247374.text = SANGGAR AKAR
 Label_9D115F8D_8F32_E947_41D9_7766314A188E.text = SMA N 3 KLATEN
-Label_9D115F8D_8F32_E947_41D9_7766314A188E_mobile.text = SMA N 3 KLATEN
 Label_9DA423AF_8F77_1944_41D7_C5E42E96DAAA.text = ERUDIO INDONESIA
 Label_9DA59204_8F6D_1B45_41E0_4AAF8AFE98AE.text = GUDSKUL
 
@@ -178,16 +177,16 @@ video_A6D7A3E1_8A17_A655_41DD_DF5A57CDE8FE.label = EVALUASI PROGRAM PRESISI 3 SM
 ## Action
 
 ### URL
+PopupWebFrameBehaviour_8C0205FA_92D7_F8CD_41E0_FBFB3A4E7785.url = https://www.scribd.com/embeds/494190380/content?start_page=1&view_mode=scroll&access_key=key-P9oxkmwu8j1OHgXQO7Bt
 PopupWebFrameBehaviour_8C2C670F_9333_3944_41E0_EBEA69685036.url = https://smpn3gunungsindur.wordpress.com/
 PopupWebFrameBehaviour_8C6A4647_9333_1BC3_419C_07E94D7C86A2.url = https://www.instagram.com/p/B6Htid3AZHY/embed
+PopupWebFrameBehaviour_8C9A43B2_92D5_195C_41D4_35B81C2EAE60.url = https://www.scribd.com/embeds/494190397/content?start_page=1&view_mode=scroll&access_key=key-LA04hFRMOmiKxFsK6K4d
 PopupWebFrameBehaviour_8CA1E6EC_9332_F8C4_41C8_08A4C54317E8.url = https://www.erudioindonesia.sch.id/?gclid=Cj0KCQiApY6BBhCsARIsAOI_GjZaPOj5rXADWQO05mX_CPeNEkThINcYUhOWH1Vsu2QOq4kjIqJsi3YaAoXBEALw_wcB
 PopupWebFrameBehaviour_8CFE255F_9335_19C4_41E1_75BBCA04A8A3.url = http://gudskul.art/
-PopupWebFrameBehaviour_8D163AE7_92D5_28C4_41C1_CB8287EFFAB3.url = https://www.scribd.com/embeds/494190380/content?start_page=1&view_mode=scroll&access_key=key-P9oxkmwu8j1OHgXQO7Bt
+PopupWebFrameBehaviour_8D163AE7_92D5_28C4_41C1_CB8287EFFAB3.url = https://www.scribd.com/embeds/494190544/content?start_page=1&view_mode=scroll&access_key=key-8vWQzGKZwue0XDGcV4ux
 PopupWebFrameBehaviour_8F9E2355_9333_79C4_41C4_28B5A0A569FE.url = http://www.sman3klaten.sch.id/
 PopupWebFrameBehaviour_8FD46618_9333_1B4D_41E0_4E49E3B2B3F0.url = https://smamarsudirinimtl.sch.id/
-PopupWebFrameBehaviour_99891E60_8F73_6BFC_41BC_8E57A9B5FBFD.url = http://www.sman3klaten.sch.id/
 PopupWebFrameBehaviour_99898E60_8F73_6BFC_41DD_C71100FEBC3A.url = https://www.google.com/maps/embed?pb=!4v1612981585007!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.319007333298515!2d106.8153769364986!3f5.253265526243741!4f-6.085563305665346!5f0.4000000000000002
-PopupWebFrameBehaviour_99899E60_8F73_6BFC_41CA_49F1D7566A64.url = https://smpn3gunungsindur.wordpress.com/
 PopupWebFrameBehaviour_9BA5F174_8D79_CFF6_41D6_8F8139993D94.url = https://www.google.com/maps/embed?pb=!4v1612981585007!6m8!1m7!1sV3pwxtHZaKrENgUgIPqWmg!2m2!1d-6.319007333298515!2d106.8153769364986!3f5.253265526243741!4f-6.085563305665346!5f0.4000000000000002
 PopupWebFrameBehaviour_9C3CD14C_8F32_F9C5_41D9_B7635743AC0D.url = https://smamarsudirinimtl.sch.id/
 PopupWebFrameBehaviour_9CA60FF1_8F33_68DF_41D5_CE24890BDCF4.url = https://smpn3gunungsindur.wordpress.com/
